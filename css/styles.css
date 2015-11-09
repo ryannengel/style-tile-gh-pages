@@ -3,14 +3,45 @@
 /***************/
 
 /* Color Palette */
+.color-1{
+  background: teal;
+}
 
+.color-2 {
+  background: navy;
+}
+
+.color-3{
+  background: grey;
+}
 
 /* Textures or Patterns*/
 
+.pattern-1{
+  background: url(../img/pat-1.png)
+}
+
+.pattern-2{
+  background: url(../img/pat-2.png)
+}
+
+.pattern-3{
+  background: url(../img/pat-3.png)
+}
 
 /* Imagery */
 
+.imagery-1{
+  background: url(../img/snow1.jpg)
+}
 
+.imagery-2{
+  background: url(../img/snow2.jpg)
+}
+
+.imagery-3{
+  background: url(../img/snow3.jpg)
+}
 /* Icons */
 
 
